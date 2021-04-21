@@ -1,1 +1,1 @@
-Black Box Deep Learning with fast.ai
+Black Box Deep Learning with fast.ai -- Image Classification Tasks
